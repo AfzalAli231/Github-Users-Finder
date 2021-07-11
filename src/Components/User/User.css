@@ -1,0 +1,19 @@
+h2{
+text-align: center;
+margin: 20px 0;
+}
+.textLeft{
+text-align: left;
+}
+.card{
+width: 450px;
+border: none;
+border-radius: 10px;
+background-color: #fff;
+margin: auto;
+}
+
+.stats{
+background-color: #f2f5f8 !important;
+color: #000 !important;
+}
