@@ -19,7 +19,7 @@ export default function UserItems(props) {
                       <div className="img">
                         <img
                           className="ig"
-                          alt="ads"
+                          alt="Profile"
                           src={curElement.avatar_url}
                           width="135"
                         />

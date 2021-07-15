@@ -17,6 +17,10 @@ export default function User() {
         getUser();
     }, [])
 
-  return <UserItems users={users}/>
-
+  return (
+    <div className="grid">
+      <UserItems users={users} />
+    </div>
+  );
 }
+

@@ -17,3 +17,7 @@ margin: auto;
 background-color: #f2f5f8 !important;
 color: #000 !important;
 }
+.grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+}
